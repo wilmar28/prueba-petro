@@ -2,9 +2,5 @@ body{
     background: blue;
     color: red;
     padding: 0;
-}
-
-h1{
-    font-size: 50px;
-    text-align: center;
+    right: 0;
 }
